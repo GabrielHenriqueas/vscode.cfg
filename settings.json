@@ -32,8 +32,7 @@
       ".env": ".env*"
     },
     "terminal.integrated.fontSize": 14, 
-    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
-    //Minha cfg.
     "window.menuBarVisibility": "compact",
   }
